@@ -1,0 +1,24 @@
+.text-box{
+	/* border: 2px solid red; */
+	background-color: #5cdb95;
+	color: #05386b;
+	width: 500px;
+	bottom: 150px;
+	left: 300px;
+	text-align: left;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+@media(max-width: 576px){
+	.text-box{
+		/* border: 2px solid red; */
+		background-color: white;
+		color: black;
+		width: auto;
+		
+		bottom: 80px;
+		left: 40px;
+	}
+}

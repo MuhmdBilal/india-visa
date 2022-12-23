@@ -1,0 +1,42 @@
+.footer{
+    background-color: #5cdb95;
+    color: #05386b;
+}
+.footer-h6{
+    color: #05386b;
+    font-size: 17px;
+    font-weight: 700;
+    text-align: left;
+    
+}
+.footer-span{
+    color: #05386b;
+    font-size: 17px;
+    font-weight: 500;
+    text-align: left !important;
+}
+.footer-p{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left !important;
+    color: #05386b;
+    
+}
+.about-a{
+    text-decoration: none;
+    color: #05386b;
+    font-size: 14px !important;
+    font-weight: 600;
+}
+.about-a:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 14px !important;
+    font-weight: 700;
+}
+
+.footer-bootom{
+    background-color: #379683;
+    color: #ffffff;
+    font-size: 19px;
+}

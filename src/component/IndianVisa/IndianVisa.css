@@ -1,0 +1,126 @@
+.Indian-h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #05386b;
+}
+.Indian-h12{
+    font-size: 22px;
+    font-weight: 800;
+    color: #05386b;
+}
+.OFFER{
+    font-weight: 700;
+    color: #05386b;
+}
+.OFFER23{
+    font-weight: 800;
+    font-size: 22px;
+    color: #05386b;
+}
+.Business-span{
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    text-transform: none;
+    color: #379683;
+    /* margin-top: 20px; */
+}
+.Please-h2{
+    font-size: 36px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+    color: #05386b;
+    margin-top: 26px;
+}
+.call-p{
+    font-size: 19px;
+    color: #05386b;
+    letter-spacing: 0px;
+    margin-top: 16px;
+}
+
+.btn-send{
+    background-color: #5cdb95;
+    border: 2px solid #5cdb95;
+    border-radius: 50px;
+    color: #05386b;
+    padding: 15px 33px;
+    font-size: 18px;
+}
+
+.india-p{
+    font-weight: bold;
+    border-color: #e1e1e1;
+}
+.Indian-h132{
+    font-size: 36px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+    color: #05386b;
+}
+.destination-p{
+    font-size: 19px;
+    letter-spacing: 0px;
+    margin-top: 16px;
+    color: #05386b;
+}
+
+li{
+    list-style: none;
+    line-height: 2.5;
+    color: #05386b;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.box-mini{
+    background-color: #379683;
+}
+.box-mini2{
+    background-color: #Edf5e1;
+}
+.box-mini3{
+    background-color: #05386b;
+}
+.Renunciation-p{
+color: white;
+font-size: 20px;
+font-weight: 700;
+}
+.Renunciation-span{
+    color: white;
+font-size: 13px;
+/* font-weight: 700; */
+}
+
+.boxes-x{
+    width: 280px;
+    /* border:  */
+}
+.message-h2{
+    font-size: 36px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+    color: #05386b;
+}
+
+.counseling-span{
+    font-size: 23px;
+    letter-spacing: 0px;
+    margin-top: 16px;
+    color: #05386b;
+}
+.PASSPORT-p{
+    font-size: 19px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #05386b;
+}
+@media(max-width: 576px){
+    .boxes-x{
+        width: 97%;
+    }
+}
